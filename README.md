@@ -133,4 +133,4 @@ python3 scripts/download_nltk_data.py
 streamlit run app.py
 ```
 
-이제 브라우저에서 Streamlit 앱이 실행됩니다. 좌측 사이드바를 통해 메인 챗봇 페이지와 어드민 그래프 뷰 페이지를 오갈 수 있습니다.
+이제 브라우저에서 Streamlit 앱이 실행됩니다. 좌측 사이드바를 통해 메인 챗봇 페이지와 어드민 그래프 뷰 페이지를 오갈 수 있습니다. 다.
